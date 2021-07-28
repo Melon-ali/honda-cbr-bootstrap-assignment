@@ -1,15 +1,18 @@
-/* Fonts Awesome */
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
 
 body {
     font-family: 'Poppins', sans-serif;
 }
-h6 {
-    color: #E76F51;
-}
 header {
     background-color: #264653;
+}
+h1 .color{
+    color: #E76F51;
+}
+h6 {
+    color: #E76F51;
 }
 
 .honda-btn-read-more {
@@ -26,4 +29,10 @@ header {
     padding: 10px 45px;
     border-radius: 5px;
     background-color: white;
+}
+p.name {
+    color: #23A6F0;
+}
+.icon {
+    color: #E77C40;
 }
