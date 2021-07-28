@@ -1,0 +1,28 @@
+/* Fonts Awesome */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h6 {
+    color: #E76F51;
+}
+header {
+    background-color: #264653;
+}
+.honda-btn-read-more {
+    background-color: #E76F51;
+    color: white;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 5px;
+}
+.honda-btn-read-more-2 {
+    font-weight: bold;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+    padding: 10px 45px;
+    border-radius: 5px;
+    background-color: white;
+}
